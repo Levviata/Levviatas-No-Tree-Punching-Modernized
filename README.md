@@ -1,5 +1,5 @@
 # Levviatas-No-Tree-Punching-Modernized
-A resource pack for the well-known Minecraft mod No Tree Punching by Alcatraz Escapee
+A resource pack for the well-known Minecraft mod [No Tree Punching](https://www.curseforge.com/minecraft/mc-mods/no-tree-punching) by [Alcatraz Escapee](https://legacy.curseforge.com/members/alcatrazescapee/projects)
 
 # Description
 As the summary says, it makes NTP's (No Tree Punching) textures look more like they do in Minecraft's newer versions.

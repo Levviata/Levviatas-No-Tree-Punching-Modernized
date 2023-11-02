@@ -2,9 +2,11 @@
 
 [![Levviata - Levviatas-No-Tree-Punching-Modernized](https://img.shields.io/static/v1?label=Levviata&message=Levviatas-No-Tree-Punching-Modernized&color=blue&logo=github)](https://github.com/Levviata/Levviatas-No-Tree-Punching-Modernized "Go to GitHub repo")
 [![GitHub release](https://img.shields.io/github/release/Levviata/Levviatas-No-Tree-Punching-Modernized?include_prereleases=&sort=semver)](https://github.com/Levviata/Levviatas-No-Tree-Punching-Modernized/releases/)
-[![License](https://img.shields.io/badge/License-GPL--3.0-blue)]([#license](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text))
+[![License](https://img.shields.io/badge/License-GPL--3.0-blue)](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text)
 [![issues - Levviatas-No-Tree-Punching-Modernized](https://img.shields.io/github/issues/Levviata/Levviatas-No-Tree-Punching-Modernized)](https://github.com/Levviata/Levviatas-No-Tree-Punching-Modernized/issues)
 
+[![Static Badge](https://img.shields.io/badge/Available_for-1.12.2-1bd96a?logo=modrinth)](https://modrinth.com/resourcepack/levviatas-no-tree-punching-modernized)
+[![Static Badge](https://img.shields.io/badge/Available_for-1.12.2-e04e14?logo=curseforge)](https://www.curseforge.com/minecraft/texture-packs/levviatas-no-tree-punching-modernized)
 
 
 

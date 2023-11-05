@@ -18,8 +18,8 @@
 
 
 
-# [!!!WARNING!!!]</div>
-### THIS RESOURCE PACK HAS NOT BEEN TESTED ON NEWER VERSIONS THAN 1.12.2, [USE THIS VERSION OF NO TREE PUNCHING IF NEWER UPLOADS ARE NOT WORKING](https://www.curseforge.com/minecraft/mc-mods/no-tree-punching/files/2983385).
+***WARNING:***  
+***THIS RESOURCE PACK HAS NOT BEEN TESTED ON NEWER VERSIONS THAN 1.12.2, [USE THIS VERSION OF NO TREE PUNCHING IF NEWER UPLOADS ARE NOT WORKING](https://www.curseforge.com/minecraft/mc-mods/no-tree-punching/files/2983385).***
 
 ## Levviata's No Tree Punching Modernized
 A resource pack for the well-known Minecraft mod [No Tree Punching](https://www.curseforge.com/minecraft/mc-mods/no-tree-punching) (or also known as 'NTP') by [Alcatraz Escapee](https://legacy.curseforge.com/members/alcatrazescapee/projects)

@@ -43,5 +43,13 @@ As the summary says, it makes NTP's (No Tree Punching) textures look more like t
 ![Before / After](https://i.postimg.cc/vT7rTcxt/2023-11-02-12-30-40.png)
 
 ## License
+<details> 
+  <summary><b>v1.0 - v1.4 license</b></summary>
+            <em>Version 1.0 until version 1.4 (v1.0; v1.1; v1.2; v1.3; v1.4) of this project is licensed under <a href="https://www.gnu.org/licenses/gpl-3.0.en.html#license-text">GPL-3.0</a> by <a href="https://github.com/Levviata">@Levviata (Lev Gomez)</a>.</em>
+</details>
+<details> 
+  <summary><b>v1.5 - vX.X license</b></summary>
+  <em>Version 1.5 and above of this project will be licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1">CC BY-SA 4.0</a> by <a href="https://github.com/Levviata">@Levviata (Lev Gomez)</a>.</em>
+</details>
 
-Released under [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text) by [@Levviata](https://github.com/Levviata).
+
